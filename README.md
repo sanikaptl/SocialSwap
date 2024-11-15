@@ -1,8 +1,3 @@
-
-<!--![Cover](https://user-images.githubusercontent.com/62587060/216439920-a319c685-58ed-4a06-9699-874594f9fbb2.png)-->
-
-![Cover](https://user-images.githubusercontent.com/62587060/218331213-20652a77-5ed1-4f81-ad43-bf425bb092e0.gif)
-
 # SocialSwap (In Progress) 📱
 SocialSwap is a mobile app that enables secure and easy exchange of contact information and social links using QR codes, offering a modern alternative to traditional business cards. <br>
 Currently in development, it is designed for seamless use at networking events, with future updates aimed at enhancing features and usability.
